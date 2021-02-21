@@ -1,1 +1,11 @@
-{"are-artificial-neural-networks-a-modern-invention.md": {"layout": "post", "title": "Are Artificial Neural Networks a modern invention?", "published": "Nov 08, 2019", "author": "Kevin (typekev) Gonzalez", "tags": "artificial intelligence, machine learning, neural networks", "timestamp": 1573200000, "location": "are-artificial-neural-networks-a-modern-invention.md.json"}, "css-html.md": {"layout": "post", "title": "css-html", "published": "Oct 18, 2021", "author": "yonatan119", "tags": "css, html", "timestamp": 1634563834, "location": "css-html.md.json"}, "state-of-the-art-ai-in-2019.md": {"layout": "post", "title": "State of the art AI in 2019", "published": "Oct 18, 2019", "author": "Kevin (typekev) Gonzalez", "tags": "artificial intelligence, machine learning", "timestamp": 1571405434, "location": "state-of-the-art-ai-in-2019.md.json"}, "the-semantics-of-writing-css-class-names-in-html.md": {"layout": "post", "title": "The semantics of writing CSS class names in HTML", "published": "May 11, 2018", "author": "Kevin (typekev) Gonzalez", "tags": "programming, classnames, css, html, naming, react, styled-components", "timestamp": 1526055999, "location": "the-semantics-of-writing-css-class-names-in-html.md.json"}, "to-destructure-or-not-to-destructure.md": {"layout": "post", "title": "To destructure or not to destructure", "published": "Jan 10, 2018", "author": "Kevin (typekev) Gonzalez", "tags": "programming, work, javascript, react", "timestamp": 1515585632, "location": "to-destructure-or-not-to-destructure.md.json"}, "using-reinforcement-learning-for-smarter-trading.md": {"layout": "post", "title": "Using Reinforcement Learning for smarter trading", "published": "Nov 01, 2019", "author": "Kevin (typekev) Gonzalez", "tags": "artificial intelligence, machine learning, reinforcement learning, trading", "timestamp": 1572619320, "location": "using-reinforcement-learning-for-smarter-trading.md.json"}, "will-artificial-intelligence-take-my.md": {"layout": "post", "title": "Will artificial intelligence take my?", "published": "Oct 25, 2019", "author": "Kevin (typekev) Gonzalez", "tags": "artificial intelligence, machine learning, programming, work", "timestamp": 1572007080, "location": "will-artificial-intelligence-take-my.md.json"}}
+{
+    "css-html.md": {
+        "layout": "post",
+        "title": "css-html",
+        "published": "Oct 18, 2021",
+        "author": "yonatan119",
+        "tags": "css, html",
+        "timestamp": 1634563834,
+        "location": "css-html.md.json"
+    }
+}
