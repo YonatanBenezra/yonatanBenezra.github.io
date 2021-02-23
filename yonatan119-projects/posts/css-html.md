@@ -13,7 +13,9 @@ Your first project will be from our skills build platform.
 [Click here!](https://bundles.yourlearning.ibm.com/skills/ngo/#RKEMERVPMPMY1DGX/EKVDPYPKGMKV155G)
 
 First:
-go through the links in the "Want some theory first" section and create a webpage with their guidance, *notice* there are answers to this section, if you are having a hard time look at them.
+go through the links in the "Want some theory first" section and create a webpage according to the instructions.
+**if you went through the lesson, you know everything need to make this work. try doing as much on your own but use their guidance if you have a hard time**
+
 Second:
 at the bottom of the page you have a mockup of a web page, lets create it by ourselves!
 
