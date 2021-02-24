@@ -6,7 +6,7 @@ author: yonatan119
 tags: css, html
 ---
 
-<img valign="middle" src="https://bundles.yourlearning.ibm.com/skills/ngo/assets/PZVPGKQQMYGZ128B/css2-layout-to-integrate.png">
+![logo]("https://bundles.yourlearning.ibm.com/skills/ngo/assets/PZVPGKQQMYGZ128B/css2-layout-to-integrate.png")
 
 Your first project will be from our skills build platform.
 

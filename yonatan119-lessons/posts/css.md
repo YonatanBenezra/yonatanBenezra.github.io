@@ -9,7 +9,7 @@ tags: css
 # *css*
 
 ## Table Of Contents
-  * [Properties](#Properties)
+- [Properties](#Properties)
   * [Selectors](#Selectors)
   * [Specificity](#Specificity)
   * [Display](#Display)
