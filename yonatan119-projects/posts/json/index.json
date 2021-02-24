@@ -1,11 +1,1 @@
-{
-    "css-html.md": {
-        "layout": "post",
-        "title": "css-html",
-        "published": "Oct 18, 2021",
-        "author": "yonatan119",
-        "tags": "css, html",
-        "timestamp": 1634563834,
-        "location": "css-html.md.json"
-    }
-}
+{"css-html.md": {"layout": "post", "title": "css-html Project", "published": "Oct 18, 2021", "author": "yonatan119", "tags": "css, html", "timestamp": 1634563834, "location": "css-html.md.json"}, "demo.md": {"layout": "post", "title": "css-html", "published": "Oct 18, 2021", "author": "yonatan119", "tags": "css, html", "timestamp": 1634563834, "location": "demo.md.json"}}
