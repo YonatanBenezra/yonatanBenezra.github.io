@@ -6,15 +6,17 @@ author: yonatan119
 tags: html
 ---
 
-- [git/hub]
- * [Pre Install](#Pre-Install)
- * [Installing Git](#Installing-Git)
- * [Creating a Local Repository](#Creating-a-Local-Repository)
- * [Github](#Github)
- * [Cloning](#Cloning)
- * [Cheat Sheet](Cheat-Sheet)
+We will go over these subjects in the following lesson:
 
-# *Pre Install*
+* **git/hub**
+* **Pre Install**
+* **Installing Git**
+* **Creating a Local Repository**
+* **Github**
+* **Cloning**
+* **Cheat Sheet**
+
+# Pre Install
 We will use a code editor to ease our work with 
 
 Lets install it
@@ -35,13 +37,12 @@ basicly it is a way to save our lines of code in one place on our local computer
 We use Github to save our code on the web.
 there is alot more to it, you can read about it [here](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 
-Lesson Overview
 In this lesson we’re going to:
 
-- [Install-Git-and-create-our-first-local-repository](#install-git-and-create-our-first local-repository)
-* [Create a repo on Github.](#create-a-repo-on-github)
-* [Upload our local repo files to Github.](#upload-our-local-repo-files-to-github)
-* [Make and revert changes.](#make-and-revert-changes)
+* *Install Git and create our first local repository*
+* *Create a repo on Github.*
+* *Upload our local repo files to Github.*
+* *Make changes.*
 
 
 # Installing Git
@@ -62,13 +63,16 @@ Windows Users
 
 In the search panel type: 
 
+```javascript
 git bash
-
+```
 Mac
 
 In the search panel type:
 
+```javascript
 Terminal
+```
 
 After we opened our editor, lets start using it!
 *note* every line automatically starts with a dollar sign, this is necessary but is automatic in this editor
@@ -135,13 +139,13 @@ I think we are ready to move our Git project who lives locally to github.com.
 this way other developers can see it, contribute to it, fork it, clone it and most importantly, it will serve as a backup if needed.
 
 *Creating a repository on github*
-* [x]Go to github.com and log in to your account.
-* [x]Go to your profile and click the "Repositories" tab.
-* [x]Click the big green button that says "New".
-* [x]give your project a name.
-* [x]If your creativity needs helps, name the project:
-* [x]"Css-Html"
-* [x]Lastly, click "create repository".
+* V Go to github.com and log in to your account.
+* V Go to your profile and click the "Repositories" tab.
+* V Click the big green button that says "New".
+* V give your project a name.
+* V If your creativity needs helps, name the project:
+* V "Css-Html"
+* V Lastly, click "create repository".
 
 The instuctions on the next screen can be a little confusing so stick to this lesson and I promise it will work out.
 
@@ -273,28 +277,37 @@ Generally we will only fork repos if we want to create something entirely new ba
 
 
 # *Cheat Sheet*
-Create git repo Flow
 
-Create empty directory: mkdir <name> 
+Create empty directory:
+`mkdir <name>` 
 
-Navigate to directory: cd <path>
+Navigate to directory:
+`cd <path>`
 
-Create a git repo in the current folder:  git init
+Create a git repo in the current folder:
+`git init`
 
-Add a remote repository called origin with a link to your github repo: git remote add origin <link to remote repo>
+Add a remote repository called origin with a link to your github repo:
+`git remote add origin <link to remote repo>`
 
-Git Commit and Push
+*Git Commit and Push*
 
-First we have to add: git add .
+First we have to add:
+`git add .`
 
-Commit: git commit –m "this is my commit message"
+Commit:
+`git commit –m "commit message"`
 
-Git pull: git pull origin master
+Git push:
+`git push origin master`
 
-Git push: git push origin master
+*Basic Commands*
 
-Basic Commands
+Git pull:
+`git pull origin master`
 
-Working directory status: git status
+Working directory status:
+`git status`
 
-See list of commits: git log
+See list of commits:
+`git log`
