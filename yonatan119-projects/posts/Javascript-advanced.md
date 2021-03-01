@@ -3,10 +3,10 @@ layout: post
 title: Javascript-Advanced Project
 published: 2021-03-09T13:30:34+00:00
 author: yonatan119
-tags: css, html
+tags: javascript, fullstack
 ---
 
-[![logo]("https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2018/06/Screen-Shot-2018-06-13-at-10.31.06-PM-1024x547.png.webp")]
+![project](js-advanced.jpg)
 
 We are going to make a stylish To-Do list
 
@@ -268,3 +268,6 @@ input {
 .delete {
 	display: none;
 > }
+
+
+And here you have it!

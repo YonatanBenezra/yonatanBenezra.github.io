@@ -1,7 +1,7 @@
 ---
 layout: post
 title: File Setup Basics
-published: 2021-03-09T13:30:34+00:00
+published: 2021-03-09T12:30:34+00:00
 author: yonatan119
 tags: css, html
 ---
