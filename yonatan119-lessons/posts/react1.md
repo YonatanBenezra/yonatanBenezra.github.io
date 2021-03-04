@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Databases and postman
+title: React
 published: 2021-03-23T16:30:34+00:00
 author: yonatan119
-tags: mongodb, mongoose
+tags: react, front-end
 ---
 **about React**
 - JavaScript library which was written by Facebook in 2013.
