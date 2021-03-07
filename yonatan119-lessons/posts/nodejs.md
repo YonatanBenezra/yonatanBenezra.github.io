@@ -5,11 +5,7 @@ published: 2021-03-23T13:30:34+00:00
 author: yonatan119
 tags: node.js, Server-side
 ---
-
-[^1]server-side development
-[^2]NodeJS
-
-[^1]* **Server-side development.**
+**Server-side development.**
 
 *Client-side means that the action takes place on the user’s (the client’s) computer.
 Server-side means that the action takes place on a web server.*
@@ -24,7 +20,7 @@ In this lesson we will learn:
 - Debugging using VS Code
 - Modules in Node: exporting and requiring them
 
-[^2]**NODE JS**
+**NODE JS**
 
 Node.js is another JavaScript runtime environment
 which means it's somewhere we can run JS code that's not the browser.
@@ -47,7 +43,8 @@ Node allows us to:
 
 **Clients & Servers**
 
-![server-side](client-server.jpg)
+![](https://techterms.com/img/lg/client-server_model_1253.png)
+
 Lets understand what clients and servers are, including the differences.  
 Until now we've only worked on client code.  
 In which the web browser (can be thought of as the client) shows the user beautiful interactive web pages using your HTML, CSS and (client-side) JavaScript files.

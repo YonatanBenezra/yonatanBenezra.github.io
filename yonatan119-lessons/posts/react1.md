@@ -1,10 +1,11 @@
 ---
 layout: post
 title: React
-published: 2021-03-23T16:30:34+00:00
+published: 2021-04-23T16:30:34+00:00
 author: yonatan119
 tags: react, front-end
 ---
+
 **about React**
 - JavaScript library which was written by Facebook in 2013.
 - It speeds up and simplifies the frontend development process.
@@ -131,7 +132,9 @@ In order to exit out of the server, you can press **ctrl + c**. It may be helpfu
 
 **React Color Switcher**
 First, we're going to build a color picker application -- the background of the page will change color based on a button the user selects.
+
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--7JVh9WP6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/yyjx3l6mblvdstncxknz.gif)
+
 The first step is to build out the static user interface, this is how we will do it:
 - we'll add an enclosing **div** which will be the top-level element of our React application.
 - we'll add another **div** inside of that one that will allow our content to be centered on the page.  

@@ -134,7 +134,9 @@ We will be using Postman here to test our endpoints that we will be implementing
 But first, let’s get familiar with Postman using our ‘/test’ route.
 - in case you didn't install postman in the previous lesson [do it now](https://www.getpostman.com/).
 - Open the app, make sure it’s a GET request and type the following url ‘localhost:1234/products/test’. Just make sure that your server is still running on the port number 1234. You should be able to see ‘Greetings from Test controller’ when going on the ‘Preview’ mode in Postman.
+
 ![](https://miro.medium.com/max/1500/1*G3GtxTFaTCGB_tCrdBNwVA.png)
+
 ___
 **The Database:**
 Our database will be hosted remotely on mLab.  
@@ -142,9 +144,13 @@ mLab offers a nice free tier that we can use to test our application.
 Let’s set it up.
 - Head to mLab’s website.
 https://mlab.com/
+
 ![](https://miro.medium.com/max/1050/1*fKof5SZbsAxjt7QdUhcEPg.png)
+
 - Click on ‘Create New’ from the above image.
+
 ![](https://miro.medium.com/max/1050/1*gTg6df7dkbtS4zm9_02K_w.png)
+
 - Select the Sandbox Plan Type and click on ‘Continue’.
 - Type in the database name, something like "productsproject".
 - Once everything is ready, just click on ‘Submit Order’
@@ -243,7 +249,9 @@ Let’s open Postman and send a POST request to the following url *"localhost:12
 - name: apple
 - price: 15 
 Also make sure that you choose x-www-form-urlencoded in the Body tab in Postman as specified in the image.
+
 ![](https://miro.medium.com/max/1500/1*-5zfiZ1ACxtWwITStWGc4A.png)
+
 We can see that the response is ‘Product Created successfully, this means that the router and the controller are working correctly.  
 To double check that an ‘Apple’ product was created, let’s check our database so head to mLab and go to the collections in your database.  
 We can see that a new collection was created named ‘products’ and has one document.

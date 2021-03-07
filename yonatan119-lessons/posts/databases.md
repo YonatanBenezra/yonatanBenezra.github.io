@@ -5,7 +5,6 @@ published: 2021-03-23T16:30:34+00:00
 author: yonatan119
 tags: mongodb, mongoose
 ---
-
 # **Databases**
 A database is a place to store data persistently and ideally in a secure way that is easy to access.
 
@@ -14,7 +13,9 @@ A database is a place to store data persistently and ideally in a secure way tha
 Traditional databases (such as SQL) are known as relational, and they work with columns and rows - much like Excel does.   
 Each cell holds some value - these values can be strings, numbers, booleans, dates - and that's it.  
 To make it easier to understand, *relational databases cannot hold complex data like objects and arrays in JavaScript - only simple data.*
-![](client_server_module.jpg).
+
+![](https://www.researchgate.net/profile/David-Moratal/publication/216554589/figure/fig1/AS:305735847170052@1449904514842/Client-Server-architecture-As-Figure-1-shows-databases-are-located-in-a-server-which.png).
+
 On the other hand, we have non-relational databases such as MongoDB.
 Non-relational databases generally store their data in more JSON-like format in which each "object" is generally known as a document and it represents some entity.  
 The main difference between relational and non-relational database is the structure.  
