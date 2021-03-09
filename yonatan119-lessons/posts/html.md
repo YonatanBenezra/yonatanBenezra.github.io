@@ -28,14 +28,13 @@ How many elements are in the code below? What are their tags?
 </div>
 ```
 
-Highlight over the colored text below for the answer:
+**Highlight** over the colored text below for the answer:
 
 > There are 3 elements: A "div", and inside of it an "h1" element and next to it a "p" element.
-
-*Structure*
+___
+**Structure**
 
 Thanks to HTML elements, we can control the layout of a webpage.
-
 lets try it out!
 copy this block of code inside your html file and see how it looks.
 
@@ -60,14 +59,13 @@ copy this block of code inside your html file and see how it looks.
 
 inline elements only take up as much space as they need.
 lets see an example of an inline element.
-
 copy this text to your body and pay attention to the width of the span element
 
 ```javascript
 <p>I take up all the width of my parent<span>I take up space only as much as needed because im an inline element.</span></p>
 ```
-
-# *attributes*
+___
+**attributes**
 
 we can give each element a specific attribute, like an id:
 
@@ -76,13 +74,11 @@ we can give each element a specific attribute, like an id:
 ```
 
 We added an ID attribute to a "p" element inside of the opening tag, which lets us identify each element. this doesn't not change anything about the element, but some attributes can change the functionality or affect or the element, some even require certain attributes.
-
 another common identifier attribute is class.
 the difference about the two is:
 the same Class can be given to more then one element, and each element can be given more than one class.
 something that can not happen with the ID attribute.
 (there can not be more than one element with the same and each element)
-
 To give an element more than one class, just separate them with a space, like so:
 
 ```javascript
@@ -90,19 +86,19 @@ To give an element more than one class, just separate them with a space, like so
 ```
 
 lets talk about some other tags.
-
-*img tag*
+___
+- **img tag**
 
 the img (image) tag is one of those elements who require a certain attribute,
 to show an image we need to enter the image link inside of a "src" attribute like this: 
 
-<img src="https://pbs.twimg.com/profile_images/821849411991044096/lQFa_Vly.jpg"/>
+![](https://pbs.twimg.com/profile_images/821849411991044096/lQFa_Vly.jpg)
 
 notice anything strange?
 this element does not have a closing tag!
 most of the elements don't really need a closing tag, so thats cool.
-
-*a tag*
+___
+**a tag**
 
 An a tag is used for linking.
 it needs an "href" attribute with the link url.
@@ -130,16 +126,14 @@ then enter a "div" tag with enough text to fill the page and on the bottom copy 
 once we click on the "a" tag it will send us to the "div" with an id of "top".
 
 make sure the page has somewhere to scroll, if it is too small this excersice wont work.
+___
+**important notes**
 
-# *important notes*
-
-1. to call a class we write the class name with a dot beforehand.
-2. to call an id we write the class name with a "#" beforehand.
-
+- to call a class we write the class name with a dot beforehand.
+- to call an id we write the class name with a "#" beforehand.
 we will use these mostly in css or with inner site "a" tags. 
-
-
-# *HTML tags list*
+___
+**HTML tags list**
 
 For now, the most useful tags will be:
 - [div](#div)
@@ -148,13 +142,11 @@ For now, the most useful tags will be:
   * [ul/ol&li](#ul/ol&li)
   * [input](#input)
   * [button](#button)
-
-
-# div
+___
+**div**
 
 The div tag is a block element,
 it will help us organize elements on the page and style them later on with CSS.
-
 we can nest any element within a div, go ahead and try!
 
 ```javascript
@@ -170,28 +162,26 @@ we can nest any element within a div, go ahead and try!
 ```
 
 nesting elements will help us better style our our elements!
-
-# *headers*
+___
+**headers**
 
 The h tag is a block element.
-
 they let us display text in different sizes in an easy way.
-
-# *p*
+___
+**p**
 
 The p tag is a block element,
 They should not contain any other element nested in them or anything besides text.
-
-# *lists*
+___
+**lists**
 
 ul: unordered list
 ol: ordered list
 li: list item
 
 we nest the li tag inside either an ol tag or a ul tag.
-
 like this:
-
+```javascript
 <ol>
 
 	<li>Presentense</li>
@@ -201,19 +191,16 @@ like this:
 	<li>ARDC</li>
 
 </ol>
-
-
-# *input*
+```
+___
+***input***
 
 We use inputs to input data that we can later use.
-
 there are two important attributes that we will talk about.
-
-1. placeholder - a text which will display before the user types inside.
-
-2. type - the type of input allowed for the use, it can be text, number...
-
-# *button*
+- placeholder - a text which will display before the user types inside.
+- type - the type of input allowed for the use, it can be text, number...
+___
+**button**
 
 the button tag will render a pre-styled button that will all the user to interact with our page.
 for example:
@@ -223,3 +210,5 @@ for example:
 ```
 
 this does not do anything right now because we didn't add any logic.
+___
+**Finish**

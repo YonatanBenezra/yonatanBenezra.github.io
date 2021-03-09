@@ -1,7 +1,7 @@
 ---
 layout: post
 title: React
-published: 2021-04-23T16:30:34+00:00
+published: 2021-04-20T16:30:34+00:00
 author: yonatan119
 tags: react, front-end
 ---

@@ -14,10 +14,10 @@ What we will learn:
 1. How to navigate through your computer and create new files directly from the command-line.
 
 2. The boilerplate used to create our websites
-
+___
 Steps:
 
-* [1] **Command Line Navigation**
+- **Command Line Navigation**
 As developers we tend to use the command line quite a bit so it is quicker to use it for easy commands as well, such as creating folders, or repositories, and opening them. 
 
 
@@ -50,7 +50,7 @@ to go back we will write two dots in the foldername space, like this:
 
 `cd ..`
 
-* [2] Creating folders and files
+- Creating folders and files
 
 Let's create a coding folder which will hold all of our projects.
 
@@ -76,7 +76,7 @@ then, create a "lesson1" folder using mkdir:
 
 Great!
 Lets start our first project!
-
+___
 to do this we will create two files: index.html and style.css.
 (Windows):
 
@@ -90,19 +90,18 @@ touch style.css
 nul index.html
 nul style.css
 ```
+___
+- Downloading our code editor
+[Click here](https://visualstudio.microsoft.com/downloads/)
 
-* [3] Downloading our code editor
-
-[Vs-code](https://visualstudio.microsoft.com/downloads/)
-
-We want to download the Visual Studio Code.
+We want to download the Visual Studio Code.  
 click on the purple link box, install the VS Code that fits your computer and afterwards come back to this lesson :)
+___
+- HTML Setup
 
-
-* [4] HTML Setup
-
-Most of our projects will have an HTML file named index.html.
- The index file is the main file that gets run in our browser and it's where we connect all our other files (if we have them). Go ahead and copy/paste the following code inside of our index.html file:
+Most of our projects will have an HTML file named index.html.  
+ The index file is the main file that gets run in our browser and it's where we connect all our other files (if we have them).  
+ Go ahead and copy/paste the following code inside of our index.html file:
 
 ```javascript
 <!DOCTYPE html>
@@ -121,12 +120,9 @@ Most of our projects will have an HTML file named index.html.
 </html>
 ```
 
-This is our "HTML boilerplate". Boilerplate code is what we call code that we use to set-up our projects.
-
-The html wraps our whole HTML document and inside of it we have our head and our body.
-
-The head is for "logistics", like the title of our page and linking in other files.
-
+This is our "HTML boilerplate". Boilerplate code is what we call code that we use to set-up our projects.  
+The html wraps our whole HTML document and inside of it we have our head and our body.  
+The head is for "logistics", like the title of our page and linking in other files.  
 The body is for the actual content of our page. Go ahead and add the following code inside of the body:
 
 ```javascript
@@ -134,16 +130,14 @@ The body is for the actual content of our page. Go ahead and add the following c
 ```
 
 Lastly, open your HTML file in Google Chrome.
-1. open Google Chrome.
-2. Click (Windows) Ctrl+o, (Mac) Command+o
-3. enter your lesson1 folder and choose your index.html file
-
-
-
-* [5]: CSS Magic
+- open Google Chrome.
+- Click (Windows) Ctrl+o, (Mac) Command+o
+- enter your lesson1 folder and choose your index.html file
+___
+**CSS Magic**  
 Remember what we said about the logistic part inside our *html*?
-The header!
-lets use this to attach our css to the index.html!
+The header!  
+lets use this to attach our css to the index.html!  
 to do this we will *link* our css inside the header.
 
 like this:
@@ -175,4 +169,4 @@ h1 {
 }
 ```
 
-And now lets see you!
+**And now lets see you!**

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Node.js mini projects
-published: 2021-03-26T13:30:34+00:00
+title: Node.js Exercise
+published: 2021-04-20T12:30:34+00:00
 author: yonatan119
 tags: node, js, javascript
 ---

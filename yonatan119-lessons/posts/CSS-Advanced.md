@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Css Advanced
-published: 2021-03-23T16:30:34+00:00
+published: 2021-04-27T16:30:34+00:00
 author: yonatan119
 tags: Css-grid
 ---
