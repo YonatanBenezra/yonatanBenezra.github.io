@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Medium.com clone **
-published: 2021-04-03T13:30:34+00:00
+title: Medium.com clone Fullstack
+published: 2021-04-27T13:30:34+00:00
 author: yonatan119
-tags: node, js, javascript, express, mongodb
+tags: node, js, javascript, express, mongodb, react
 ---
 Before you proceed, open [this](https://reactrouter.com/web/api/Hooks) link in a different tab.
 it will help you understand things along the way, like how to create routes.

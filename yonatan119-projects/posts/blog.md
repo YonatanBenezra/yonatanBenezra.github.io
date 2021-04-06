@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Blog **
-published: 2021-04-05T13:30:34+00:00
+title: Blog Fullstack
+published: 2021-05-04T13:30:34+00:00
 author: yonatan119
-tags: node, js, javascript, express, mongodb
+tags: node, js, javascript, express, mongodb, react
 ---
 
 Project Setup
