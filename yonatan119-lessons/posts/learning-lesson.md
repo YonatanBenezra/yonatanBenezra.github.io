@@ -20,17 +20,18 @@ By wikipedia the meaning is:
 ___
 Some important concepts for learning:
 
-1. <b>The mind needs exercise and repetition over time in order to fully understand a concept.</b>   
-This means:
-    - When you first read or hear something new, it is normal that you do not fully understand it.
+1. **The mind needs exercise and repetition over time in order to fully understand a concept.**   
+This means:   
 
-    - Read it more than once and look at examples.
+- When you first read or hear something new, it is normal that you do not fully understand it.
 
-    - Try it yourself.
+- Read it more than once and look at examples.
 
-    - At a later time, get back to the same concept and either read it again and try it again or try to learn it from a different source and do different exercise. Repetition is very powerful.
+- Try it yourself.
 
-2. <b>Breakdown</b>   
+- At a later time, get back to the same concept and either read it again and try it again or try to learn it from a different source and do different exercise. Repetition is very powerful.
+
+2. **Breakdown**   
 It is difficult to fully understand a large concept.
 
 The best way to do it is:   
@@ -39,13 +40,13 @@ The best way to do it is:
 - learn gradually   
 - Exercise part 1 of the concept   then part 2, then if possible exercise the combination of both.
 
-3. <b>With time, learn what works best for you.</b>
+3. **With time, learn what works best for you.**
 Some of us like to read the material in English, some like to search for training in their native language.   
 Some prefer training Videos, others like face-to-face.   
 Some like to study alone, others prefer studying a group. 
-<b>Learn what works for you and utilize it.</b>
+Learn what works for you and utilize it.
 
-4. <b>Recognize your own improvement</b>   
+4. **Recognize your own improvement** 
 "We tend to take for granted things that are easy for us and fear things we don't know or don't understand."
 
 when approaching a problem start with what you can solve and the circle back to the ones that you don't know.
@@ -59,7 +60,7 @@ At times we need to reflect and see that we now know x,y and z, possibly they ar
 <br/>
 This understanding will give us the confidence when we approach the next thing.
 
-5. <b>How to tell a good source on the web vs a bad one?</b>   
+5. **How to tell a good source on the web vs a bad one?**  
 We have a lesson about this but lets go over it.
 - Make sure the answer is for the specific technology you are using.
 - Read it, go through the answer and check if it makes sense to you.
@@ -70,12 +71,12 @@ How can I tell which Stackoverflow answer is a good one?
 - Pay attention to key words.
 - Understand what is written.
 
-6. <b>What do I do if I find an answer but don't recognize the library being used?</b>
+6. **What do I do if I find an answer but don't recognize the library being used?**
 don't get stuck when you see a library you don't recognize.
 <br/>
 Go ahead and look it up (also go down the rabbit whole you learn alot that way) 
 
-7. <b> Google.</b>   
+7.  **Google.**   
 If you know how to find the answers, you wont struggle to remember.   
 Learning how to Google is a huge skill and you improve it with time, so search, search, search.
 ___
@@ -96,9 +97,9 @@ Here are a couple of steps suggested to go through when learning something new f
 7. If you feel you just don't understand, move to something you do understand and get back to it later on.
 
 If there is one tip I think is best to remember, it is:   
-<b>Start learning!</b>   
+Start learning!   
 start by reading guides and tutorials, do a course on the material you want to learn or watch a youtube video.   
-but most importantly, <b>Start</b>. :)
+but most importantly, Start. :)
 
 Learning by yourself is not easy, don't have a hard time if you don't succeed right away.
 
